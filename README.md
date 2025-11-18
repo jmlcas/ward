@@ -1,6 +1,3 @@
-# ward
-Ward - Monitorizar sistema - Docker compose
+# Ward
 
-Ver en "localhost:4000"
-
-
+Ver en "http://localhost:4000"
